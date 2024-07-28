@@ -42,7 +42,9 @@ Big shout out to @nicknochnack for the inspiration for this project.
 4. **Download and Store the Model**
 
 Download the Mistral model from Hugging Face:
+
 Mistral: https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF
+
 Save the model file in the Models folder of your project directory.
 
 
