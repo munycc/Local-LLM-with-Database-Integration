@@ -62,5 +62,4 @@ Contributions to enhance functionality are always welcome.
 
 ## License
 Code available under the MIT License, permitting reuse, modification, and distribution.
-```
 
