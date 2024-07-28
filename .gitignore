@@ -160,3 +160,44 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# Specific to your project
+
+# Ignore the llama.cpp directory
+llama.cpp/
+llama.cpp/*
+
+# Ignore the .vs directory, which contains Visual Studio files
+.vscode/
+.vscode/*
+
+# Ignore Python cache and log files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+
+# Ignore environment files
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Ignore build directories and user-specific files
+llama.cpp/build/
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore w64devkit executables and build files
+w64devkit/
+
+# Allow specific model files
+!Models/mixtral-8x7b-instruct-v0.1.Q2_K.gguf
