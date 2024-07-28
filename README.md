@@ -46,7 +46,7 @@ Mistral: https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF
 Save the model file in the Models folder of your project directory.
 
 
-4. **Run the Server**
+5. **Run the Server**
    Double-click on the file `run_server_and_app.bat`.
 
 
